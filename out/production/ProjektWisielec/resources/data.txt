@@ -1,0 +1,3 @@
+latwe,smok,kot,pies,ptak,krok
+srednie,samolot,bilard,krokiet,lotnik
+trudne,bombowiec,salceson,wojownik,karykatura
